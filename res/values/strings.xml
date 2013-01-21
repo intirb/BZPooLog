@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BZPooLog</string>
+    <string name="menu_settings">Settings</string>
+    <string name="edit_message">Enter a message:</string>
+    <string name="view_poo_log">View your poo log!</string>
+    <string name="new_poo">I poo\'d!</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_display_poo_log">Log Viewer</string>
+    <string name="title_activity_add_new_entry">New Poo</string>
+
+</resources>
